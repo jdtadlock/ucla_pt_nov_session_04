@@ -1,0 +1,27 @@
+form {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  margin-bottom: 25px;
+}
+
+form input, form textarea, form button {
+  padding: 7px;
+  margin-bottom: 5px;
+  font-size: 1.0001rem;
+}
+
+form button {
+  background: rgb(63, 211, 49);
+  color: #fff;
+}
+
+
+.note {
+  background: #777;
+  color: #fff;
+  padding: 15px;
+  margin: 7px;
+  text-align: center;
+}
+
